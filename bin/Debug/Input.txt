@@ -1,0 +1,16 @@
+using System;
+using Inventor;
+
+class Program
+{
+    public static void Main()
+    {
+        Application m_inventorApp;
+        m_inventorApp = System.Runtime.InteropServices.Marshal.GetActiveObject("Inventor.Application") as Application;
+
+        Document oDoc = m_inventorApp.ActiveDocument;
+        Parameter oParam = oDoc.ComponentDefinition.Parameters["d0"];
+        oParam.Value = 50;
+    }
+}
+

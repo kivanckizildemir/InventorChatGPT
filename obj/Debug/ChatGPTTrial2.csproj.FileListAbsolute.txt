@@ -1,0 +1,206 @@
+C:\Users\pc\source\repos\ChatGPTTrial2\bin\Debug\ChatGPTTrial2.exe.config
+C:\Users\pc\source\repos\ChatGPTTrial2\bin\Debug\ChatGPTTrial2.exe
+C:\Users\pc\source\repos\ChatGPTTrial2\bin\Debug\ChatGPTTrial2.pdb
+C:\Users\pc\source\repos\ChatGPTTrial2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\pc\source\repos\ChatGPTTrial2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\ChatGPTTrial2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\source\repos\ChatGPTTrial2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\pc\source\repos\ChatGPTTrial2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\pc\source\repos\ChatGPTTrial2\obj\Debug\ChatGPTTrial2.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\ChatGPTTrial2\obj\Debug\ChatGPTTrial2.Properties.Resources.resources
+C:\Users\pc\source\repos\ChatGPTTrial2\obj\Debug\ChatGPTTrial2.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\ChatGPTTrial2\obj\Debug\ChatGPTTrial2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ChatGPTTrial2\obj\Debug\ChatGPTTrial2.csproj.CopyComplete
+C:\Users\pc\source\repos\ChatGPTTrial2\obj\Debug\ChatGPTTrial2.exe
+C:\Users\pc\source\repos\ChatGPTTrial2\obj\Debug\ChatGPTTrial2.pdb
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\ChatGPTTrial2.exe.config
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\ChatGPTTrial2.exe
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\ChatGPTTrial2.pdb
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.AssemblyReference.cache
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\obj\Debug\ChatGPTTrial2.Properties.Resources.resources
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.GenerateResource.cache
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.CoreCompileInputs.cache
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.CopyComplete
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\obj\Debug\ChatGPTTrial2.exe
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\obj\Debug\ChatGPTTrial2.pdb
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ÇağatayKalsan\Source\Repos\kivanckizildemir\ChatGPTTrial\obj\Debug\ChatGPTTrial2.MyForm.resources
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\ChatGPTTrial2.exe.config
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\ChatGPTTrial2.exe
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\ChatGPTTrial2.pdb
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\TextCopy.dll
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pc\Source\Repos\ChatGPTTrial\bin\Debug\TextCopy.xml
+C:\Users\pc\Source\Repos\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.AssemblyReference.cache
+C:\Users\pc\Source\Repos\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Source\Repos\ChatGPTTrial\obj\Debug\ChatGPTTrial2.MyForm.resources
+C:\Users\pc\Source\Repos\ChatGPTTrial\obj\Debug\ChatGPTTrial2.Properties.Resources.resources
+C:\Users\pc\Source\Repos\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.GenerateResource.cache
+C:\Users\pc\Source\Repos\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.CopyComplete
+C:\Users\pc\Source\Repos\ChatGPTTrial\obj\Debug\ChatGPTTrial2.exe
+C:\Users\pc\Source\Repos\ChatGPTTrial\obj\Debug\ChatGPTTrial2.pdb
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Buffers.dll
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Memory.dll
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Net.Http.Json.dll
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Text.Json.dll
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.ValueTuple.dll
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Buffers.xml
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Memory.xml
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Net.Http.Json.xml
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.Text.Json.xml
+C:\Users\ÇağatayKalsan\source\repos\kivanckizildemir\ChatGPTTrial\bin\Debug\System.ValueTuple.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\ChatGPTTrial2.exe.config
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\ChatGPTTrial2.exe
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\ChatGPTTrial2.pdb
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Buffers.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Memory.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Net.Http.Json.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Text.Json.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.ValueTuple.dll
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Buffers.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Memory.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Net.Http.Json.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Text.Json.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\bin\Debug\System.ValueTuple.xml
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.AssemblyReference.cache
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\obj\Debug\ChatGPTTrial2.MyForm.resources
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\obj\Debug\ChatGPTTrial2.Properties.Resources.resources
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.GenerateResource.cache
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.CoreCompileInputs.cache
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\obj\Debug\ChatGPTTrial2.csproj.CopyComplete
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\obj\Debug\ChatGPTTrial2.exe
+C:\Users\ÇağatayKalsan\OneDrive - Codeo\Masaüstü\ChatGPTTrial\obj\Debug\ChatGPTTrial2.pdb
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\ChatGPTTrial2.exe.config
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\ChatGPTTrial2.exe
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\ChatGPTTrial2.pdb
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Buffers.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Memory.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Net.Http.Json.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Text.Json.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.ValueTuple.dll
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Buffers.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Memory.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Net.Http.Json.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Text.Json.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\bin\Debug\System.ValueTuple.xml
+C:\Users\kivan\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.csproj.AssemblyReference.cache
+C:\Users\kivan\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.MyForm.resources
+C:\Users\kivan\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.Properties.Resources.resources
+C:\Users\kivan\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.csproj.GenerateResource.cache
+C:\Users\kivan\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.csproj.CoreCompileInputs.cache
+C:\Users\kivan\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.csproj.CopyComplete
+C:\Users\kivan\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.exe
+C:\Users\kivan\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.pdb
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\ChatGPTTrial2.exe.config
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\ChatGPTTrial2.exe
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\ChatGPTTrial2.pdb
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Net.Http.Json.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Text.Json.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.ValueTuple.dll
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Net.Http.Json.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Text.Json.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\bin\Debug\System.ValueTuple.xml
+C:\Users\pc\Desktop\ChatGPTTrial-master\obj\Debug\InventorChatGPT.MyForm.resources
+C:\Users\pc\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.Properties.Resources.resources
+C:\Users\pc\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.csproj.CopyComplete
+C:\Users\pc\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.exe
+C:\Users\pc\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.pdb
+C:\Users\pc\Desktop\ChatGPTTrial-master\obj\Debug\ChatGPTTrial2.csprojAssemblyReference.cache
